@@ -2,7 +2,7 @@
 # work-day-scheduler
 
 View the deployment link here:
-https://robcabobb.github.io/work-day-scheduler/
+https://robbieevans1.github.io/work-day-scheduler/
 
 
 GIVEN I am using a daily planner to create a schedule
